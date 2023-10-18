@@ -12,3 +12,5 @@ Chỉ sử dụng được trên máy tính.
 PC ONLY
 # Credits
 Hướng dẫn này là của Vietspoilt (YT:https://www.youtube.com/channel/UCZZECgh_8X9-e3n-hj-taOg)
+
+Made by Vietspoilt (YT:https://www.youtube.com/channel/UCZZECgh_8X9-e3n-hj-taOg)
