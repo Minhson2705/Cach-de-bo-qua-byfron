@@ -1,4 +1,6 @@
 # Hướng-dẫn-cách-bypass
+XIN HÃY XEM VIDEO NÀY Ở TRÊN YOUTUBE ĐỂ RÕ HƠN:
+
 Có 2 cách để bypass
 
 Cách thứ nhất khó hơn:
@@ -16,6 +18,14 @@ C5:Bấm "Save" thế là xong,vào lại ROBLOX và nhớ mở cái này trong 
 ![image](https://github.com/Minhson2705/Cach-de-bo-qua-byfron/assets/91005596/1371f68b-ed76-479a-ba79-c2c0fed69f41)
 
 Nếu bạn làm đúng nó sẽ như thế này
+
+"Save" mỗi khi lỡ tắt hoặc mở máy tính ở đây 
+
+![image](https://github.com/Minhson2705/Cach-de-bo-qua-byfron/assets/91005596/e829f192-1e55-407f-984d-52052f2293c7)
+
+"Save" bấm nút này 
+
+![image](https://github.com/Minhson2705/Cach-de-bo-qua-byfron/assets/91005596/44744753-c92e-4c86-96b9-d9d95cfbf27a)
 
 Cách 2:
 
