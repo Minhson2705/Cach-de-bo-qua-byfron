@@ -1,4 +1,6 @@
 # Hướng-dẫn-cách-bypass
+Bạn cần phải hạ cấp Roblox để dùng (Tải:https://github.com/Minhson2705/Cach-de-bo-qua-byfron/releases/tag/ApplicationDowngrade)
+
 Làm bởi Vietspoilt (https://www.youtube.com/watch?v=8q9Sl78zFU4&t=1s)
 
 XIN HÃY XEM VIDEO NÀY Ở TRÊN YOUTUBE ĐỂ ĐƯỢC HƯỚNG DẪN CHI TIẾT:https://www.youtube.com/watch?v=8q9Sl78zFU4&t=1s
