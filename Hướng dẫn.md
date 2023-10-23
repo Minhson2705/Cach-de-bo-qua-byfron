@@ -33,7 +33,7 @@ Nếu bạn làm đúng nó sẽ như thế này
 
 Cách 2: (Hơi khó một chút nhưng miễn phí)
 
-C1:Tải Fiddler Classic (Link tải:https://www.httpdebugger.com/download_pro.html](https://www.telerik.com/download/fiddler/fiddler4)
+C1:Tải Fiddler Classic (Link tải:https://www.telerik.com/download/fiddler/fiddler4)
 
 C2:Chạy và làm như sau.Bấm Next rồi "I argee" rồi bấm "Install" để tải,đợi tải xong và chạy.
 
@@ -44,7 +44,7 @@ C4(Quang trọng):Vào phần "Tools" rồi chọn "Options",rồi vào "HTTPS" 
 
 C3:Bấm vào phần "Add Rule" ,ở phần ô ở trên nhập vào dòng chữ mà bạn đã copy (Copy ở:https://github.com/Minhson2705/Cach-de-bo-qua-byfron/blob/main/copylinkandpastetourlhttpdebuggeronlyandfiddler.txt)
 
-C4:Sau đó ở phần ô dưới ở phần mũi tên cuộn ở dưới cùng chọn "Find a file",rồi chọn file mà bạn đã tải  (Tải ở:https://github.com/Minhson2705/Cach-de-bo-qua-byfron/blob/main/RobloxVersion.txt)(TẢI Ở DESKTOP)
+C4:Sau đó ở phần ô dưới ở phần mũi tên cuộn ở dưới cùng chọn "Find a file",rồi chọn file mà bạn đã tải  (Tải ở:https://github.com/Minhson2705/Cach-de-bo-qua-byfron/blob/main/RobloxVersion.txt) (TẢI Ở DESKTOP)
 
 C5:Bấm "Save" thế là xong,vào lại ROBLOX và nhớ mở cái này trong suốt quá trỉnh chơi.Và mỗi lần ROBLOX bị đóng,hãy "Save" lại để nó hoạt động.(Mở suốt quá trình chơi)
 
