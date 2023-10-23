@@ -3,11 +3,11 @@ Bạn cần phải hạ cấp Roblox để dùng (Tải:https://github.com/Minhs
 
 Làm bởi Vietspoilt (https://www.youtube.com/watch?v=8q9Sl78zFU4&t=1s)
 
-XIN HÃY XEM VIDEO NÀY Ở TRÊN YOUTUBE ĐỂ ĐƯỢC HƯỚNG DẪN CHI TIẾT:https://www.youtube.com/watch?v=8q9Sl78zFU4&t=1s
-
 Có 2 cách để bypass
 
 Cách thứ nhất khó hơn(Mất tiền):
+
+XIN HÃY XEM VIDEO NÀY Ở TRÊN YOUTUBE ĐỂ ĐƯỢC HƯỚNG DẪN CHI TIẾT:https://www.youtube.com/watch?v=8q9Sl78zFU4&t=1s
 
 C1:Tải HTTP Debugger (Link tải:https://www.httpdebugger.com/download_pro.html)
 
